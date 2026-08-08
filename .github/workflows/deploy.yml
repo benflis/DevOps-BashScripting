@@ -21,7 +21,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Deploys from the Github-Deployer subfolder since index.html lives there, not at the repo root.
-          path: "../../Github-Deployer/"
+          path: "../../Github-Deployer"
 
       - name: Deploy to GitHub Pages
         id: deployment
