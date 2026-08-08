@@ -28,7 +28,7 @@ Note: On macOS some Linux-specific tools (like `free`) may not be available; use
 Clone the repository or copy the scripts to your server:
 
 ```
-git clone 
+git clone https://github.com/benflis/DevOps-BashScripting.git
 ```
 
 Ensure scripts are executable:
