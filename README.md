@@ -40,6 +40,22 @@ This script requires 1 argument
 ./nginx-log-analyzer.sh (nginx file)
 ```
 
+
+## Overview on nginx log analyzer
+
+
+GitHub action that deploys any changes made to the index.html file to GitHub Pages
+
+[Github Pages Deployer](https://roadmap.sh/projects/github-actions-deployment-workflow)
+
+You can find the deployed index.html at 
+
+```
+[Page](https://benflis.github.io/DevOps-BashScripting/)
+```
+
+
+
 ## Requirements
 
 - Unix-like OS (Linux, macOS)
