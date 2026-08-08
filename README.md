@@ -1,17 +1,19 @@
-## Overview
+## Overview on server-stats.sh
 
-This project provides simple, easy-to-run shell scripts that collect common server metrics such as CPU, memory, and disk usage as a strater
+This project provides simple, easy-to-run shell scripts that collects CPU, RAM, Disk usage and top 5 processes based on CPU and RAM
 
 
+[text](https://roadmap.sh/projects/server-stats)
 
-https://roadmap.sh/projects/server-stats
 
-## Features
+## Overview on log-archive.sh
 
-- CPU
-- Memory usage 
-- Disk usage
-- Top processes by CPU and memory
+A tool to archive logs on a set schedule by compressing them and storing them in a new directory
+
+
+[text](https://roadmap.sh/projects/log-archive-tool)
+
+
 
 
 ## Requirements
