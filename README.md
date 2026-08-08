@@ -4,7 +4,8 @@ Lightweight collection of Bash scripts to gather basic server statistics and sys
 
 ## Overview
 
-This project provides simple, easy-to-run shell scripts that collect common server metrics such as CPU, memory, disk usage, network interfaces, and running processes. The scripts are intended for quick diagnostics, monitoring integrations, or inclusion in automation pipelines.
+This project provides simple, easy-to-run shell scripts that collect common server metrics such as CPU, memory, and disk usage as a strater
+
 
 ## Features
 
