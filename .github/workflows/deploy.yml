@@ -20,8 +20,8 @@ jobs:
       - name: Upload Artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # "." deploys from root. Change to "dist" or "build" if using a build framework.
-          path: "." 
+          # Deploys from the Github-Deployer subfolder since index.html lives there, not at the repo root.
+          path: "./Github-Deployer"
 
       - name: Deploy to GitHub Pages
         id: deployment
