@@ -1,17 +1,16 @@
-# Server Stats
-
-Lightweight collection of Bash scripts to gather basic server statistics and system information.
-
 ## Overview
 
 This project provides simple, easy-to-run shell scripts that collect common server metrics such as CPU, memory, and disk usage as a strater
 
 
+
+https://roadmap.sh/projects/server-stats
+
 ## Features
 
-- CPU and load averages
-- Memory usage (RAM and swap)
-- Disk usage and inode usage
+- CPU
+- Memory usage 
+- Disk usage
 - Top processes by CPU and memory
 
 
