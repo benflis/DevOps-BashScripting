@@ -13,7 +13,10 @@ A tool to archive logs on a set schedule by compressing them and storing them in
 
 [Log Archiver](https://roadmap.sh/projects/log-archive-tool)
 
-
+This Script accepts 2 arguments 
+```
+./log-archive.sh (directory where you logs are stored) (directory where you want to store the new compressed logs)
+```
 
 
 ## Requirements
