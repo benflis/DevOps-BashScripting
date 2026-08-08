@@ -3,7 +3,7 @@
 This project provides simple, easy-to-run shell scripts that collects CPU, RAM, Disk usage and top 5 processes based on CPU and RAM
 
 
-[text](https://roadmap.sh/projects/server-stats)
+[Server Statistics](https://roadmap.sh/projects/server-stats)
 
 
 ## Overview on log-archive.sh
@@ -11,7 +11,7 @@ This project provides simple, easy-to-run shell scripts that collects CPU, RAM, 
 A tool to archive logs on a set schedule by compressing them and storing them in a new directory
 
 
-[text](https://roadmap.sh/projects/log-archive-tool)
+[Log Archiver](https://roadmap.sh/projects/log-archive-tool)
 
 
 
